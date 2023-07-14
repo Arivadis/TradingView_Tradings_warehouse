@@ -29,6 +29,7 @@ All You have to do is:
 
 
 5. Make sure You past your trades in the right place in script!
+![Pine_trades](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/64c8ef36-bf61-4b46-89da-4e1b16ce1fe3)
 
 After You passed all steps - You have the script working.
 
