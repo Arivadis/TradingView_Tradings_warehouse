@@ -15,7 +15,7 @@ All You have to do is:
 2. Download converter excel file or python zip(and extract).
 3. If You do want to use excel - see how to convert your trades using sample.
    After You downloaded your trades(https://www.binance.com/en/support/faq/how-to-download-spot-trading-transaction-history-statement-e4ff64f2533f4d23a0b3f8f17f510eab) for needed period(it is better to download every asset from the first trade, or from 0 owned amount,thus You
-   won't sell more than bought), push to the red columns You trades from column data to column fee. Every next column in script has its formula.
+   won't sell more than have bought), push to the red columns You trades from column data to column fee. Every next column in script has its formula.
    Just use this formulas for every next trade to have script written trade(Green column). Copy green column, past into script(like it shown in
    the main script).![Excel_before](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/6552afa1-1f8e-4e70-b1c6-ab88f47bdb26)
 ![Excel_before_2](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/7f0f956e-fd76-4c77-a115-2f41553da8fd)
