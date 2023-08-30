@@ -1,5 +1,5 @@
 # TradingView_Tradings_warehouse
-This is Pinescript script to help You keep your trades in the right order, especially especially if you are trading SPOT and BUY&HOLD.
+This is Pinescript script to help You keep your trades in the right order, especially if you are trading SPOT and BUY&HOLD.
 ![Example](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/73b2a04b-1778-430e-94ed-98576298a527)
 
 
