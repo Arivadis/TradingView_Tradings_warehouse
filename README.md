@@ -13,6 +13,8 @@ this script.
 All You have to do is:
 1. Add the Pinescript script named Trade_warehouse into Pine editor and save
 2. Download converter excel file or python zip(and extract).
+![Screenshot from 2023-08-30 19-04-43](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/3c4aaf1e-40f0-41e5-a02b-b5eda160fcf5)
+
 3. If You do want to use excel - see how to convert your trades using sample.
    After You downloaded your trades(https://www.binance.com/en/support/faq/how-to-download-spot-trading-transaction-history-statement-e4ff64f2533f4d23a0b3f8f17f510eab) for needed period(it is better to download every asset from the first trade, or from 0 owned amount,thus You
    won't sell more than have bought), push to the red columns You trades from column data to column fee. Every next column in script has its formula.
