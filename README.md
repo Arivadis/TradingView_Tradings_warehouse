@@ -35,4 +35,4 @@ All You have to do is:
 
 After You passed all steps - You have the script working.
 
- 
+You can update script with new trades, but remember to keep the excel file with old trades, as script will handle all duplicates in excel file,but it has no idea what trades You currently have on tradingview. So better to keep all trades in excel and add ned data to it.
