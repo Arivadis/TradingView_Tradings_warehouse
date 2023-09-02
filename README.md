@@ -23,16 +23,6 @@ All You have to do is:
 ![Excel_before_2](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/7f0f956e-fd76-4c77-a115-2f41553da8fd)
 ![Excel_before_3](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/25c70f26-d900-4ad2-a5a3-b99bfa31ec45)
 
-4. For python script everything is much easier. Just extract zip, make shortcut to file \dist\main, run, choose the file with You trades - get
-   .txt file with your trades to push to the script
-![short_cut](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/0980b3bb-5291-4479-ae8c-ecdc9cd41c11)
+4. For python script everything is much easier. Just extract zip => run script => browse file with trades => copy the script from .txt generated file => past into pine editor => add to the chart.
+5. ![Снимок экрана 2023-09-02 174845](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/56bdc22e-7994-4603-99ef-d2b66506ce00)
 
-![short_cut 2](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/8ab11589-eb3b-43f3-accc-08979eb5dafb)
-
-
-5. Make sure You past your trades in the right place in script!
-![Pine_trades](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/64c8ef36-bf61-4b46-89da-4e1b16ce1fe3)
-
-After You passed all steps - You have the script working.
-
-You can update script with new trades, but remember to keep the excel file with old trades, as script will handle all duplicates in excel file,but it has no idea what trades You currently have on tradingview. So better to keep all trades in excel and add ned data to it.
