@@ -28,4 +28,4 @@ All You have to do is:
 
 ![Снимок экрана 2023-09-02 174845](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/56bdc22e-7994-4603-99ef-d2b66506ce00)
 
-
+Press Like this git and tradingview script if it helped You!
