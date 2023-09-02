@@ -24,5 +24,8 @@ All You have to do is:
 ![Excel_before_3](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/25c70f26-d900-4ad2-a5a3-b99bfa31ec45)
 
 4. For python script everything is much easier. Just extract zip => run script => browse file with trades => copy the script from .txt generated file => past into pine editor => add to the chart.
-5. ![Снимок экрана 2023-09-02 174845](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/56bdc22e-7994-4603-99ef-d2b66506ce00)
+![Снимок экрана 2023-09-02 175024](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/45bb167a-0ce4-41ab-8a05-8cb14a08abf9)
+
+![Снимок экрана 2023-09-02 174845](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/56bdc22e-7994-4603-99ef-d2b66506ce00)
+
 
