@@ -3,7 +3,7 @@ This is Pinescript script to help You keep your trades in the right order, for y
 ![Example](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/73b2a04b-1778-430e-94ed-98576298a527)
 
 Download python .exe script to convert excel trades into pine script => follow the instruction, please.
-[[Link to download the script.](https://drive.google.com/file/d/1mjPmwCPMssS6Qun84QZuZGneg6OWJ7LW/view?usp=sharing)](https://drive.google.com/file/d/1zg5SS0lBr7PmC71R7faUbRI69BmY4Zu2/view?usp=sharing)
+[Link to download the script.](https://drive.google.com/file/d/1zg5SS0lBr7PmC71R7faUbRI69BmY4Zu2/view?usp=drive_link)
 
 
 
@@ -14,7 +14,6 @@ this script.
 All You have to do is:
 1. Download your trades from exchange. If there are several csv files - merge it into the one csv file.
 2. Download converter excel file or python zip(and extract).
-![Screenshot from 2023-08-30 19-04-43](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/3c4aaf1e-40f0-41e5-a02b-b5eda160fcf5)
 
 3. If You do want to use excel - see how to convert your trades using sample.
    After You downloaded your trades(https://www.binance.com/en/support/faq/how-to-download-spot-trading-transaction-history-statement-e4ff64f2533f4d23a0b3f8f17f510eab) for needed period(it is better to download every asset from the first trade, or from 0 owned amount,thus You
@@ -25,7 +24,7 @@ All You have to do is:
 ![Excel_before_3](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/25c70f26-d900-4ad2-a5a3-b99bfa31ec45)
 
 4. For python script everything is much easier. Just download =>
-[[Link to download the script.](https://drive.google.com/file/d/1mjPmwCPMssS6Qun84QZuZGneg6OWJ7LW/view?usp=sharing)](https://drive.google.com/file/d/1zg5SS0lBr7PmC71R7faUbRI69BmY4Zu2/view?usp=sharing)
+[Link to download the script.](https://drive.google.com/file/d/1zg5SS0lBr7PmC71R7faUbRI69BmY4Zu2/view?usp=drive_link)
 extract zip => run script => browse file with trades => copy the script from .txt generated file => past into pine editor => add to the chart.
 
 You system can show that this file can contain malware => sorry, I have no possibility to get certification for every script I have, so just skip warning.
