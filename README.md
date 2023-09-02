@@ -11,7 +11,7 @@ As Binance(and other) exchange provides limted data storage(to get statistical d
 how much was invested and how deep your wallet was before You get into crypto/stock investing. For this semi-automated process you can use 
 this script.
 All You have to do is:
-1. Add the Pinescript script named Trade_warehouse into Pine editor and save
+1. Download your trades from exchange. If there are several csv files - merge it into the one csv file.
 2. Download converter excel file or python zip(and extract).
 ![Screenshot from 2023-08-30 19-04-43](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/3c4aaf1e-40f0-41e5-a02b-b5eda160fcf5)
 
