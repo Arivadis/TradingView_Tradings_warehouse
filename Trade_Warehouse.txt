@@ -539,7 +539,6 @@ if array.size(trades_array) > 0
                 temp_usd_cur = array.get(usd_cur, index_of_pair)
 
                 if current_trade.buy
-                    
                     array.set(amount_tot, index_of_pair, current_trade.amount + temp_amount_tot)
                     array.set(usd_tot, index_of_pair, (current_trade.amount * current_trade.price) + temp_usd_tot)
                     array.set(avg_tot, index_of_pair, array.get(usd_tot,index_of_pair) /array.get(amount_tot,index_of_pair))
