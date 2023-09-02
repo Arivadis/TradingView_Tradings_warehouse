@@ -8,7 +8,7 @@ Link to add the script.
 
 
 As Binance(and other) exchange provides limted data storage(to get statistical data), You have to keep your SPOT trades somewhere to have an idea where is your AVG price,
-how much was invested and how is deep your wallet was before You get into crypto/stock investing. For this semi-automated process you can use 
+how much was invested and how deep your wallet was before You get into crypto/stock investing. For this semi-automated process you can use 
 this script.
 All You have to do is:
 1. Add the Pinescript script named Trade_warehouse into Pine editor and save
