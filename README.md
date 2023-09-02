@@ -14,7 +14,7 @@ All You have to do is:
 1. Download your trades from exchange. If there are several csv files - merge it into the one csv file.
 2. Download converter excel file or python zip(and extract).
 [Download](https://drive.google.com/file/d/15LT54f2LxsGPcPjit-xhqPMIPsoACf2R/view?usp=sharing)
-or this (run main.exe after export files into some folder) [Download](https://drive.google.com/file/d/1BrEKVurnvEyw6cUThL_k9BZU73xQwjrU/view?usp=sharing)
+or this (run main shortcut after export files into some folder) [Download](https://drive.google.com/file/d/1BrEKVurnvEyw6cUThL_k9BZU73xQwjrU/view?usp=sharing)
 4. If You do want to use excel - see how to convert your trades using sample.
    After You downloaded your trades(https://www.binance.com/en/support/faq/how-to-download-spot-trading-transaction-history-statement-e4ff64f2533f4d23a0b3f8f17f510eab) for needed period(it is better to download every asset from the first trade, or from 0 owned amount,thus You
    won't sell more than have bought), push to the red columns You trades from column data to column fee. Every next column in script has its formula.
@@ -25,7 +25,7 @@ or this (run main.exe after export files into some folder) [Download](https://dr
 
 5. For python script everything is much easier. Just download =>
 [Download](https://drive.google.com/file/d/15LT54f2LxsGPcPjit-xhqPMIPsoACf2R/view?usp=sharing)
-or this (run main.exe after export files into some folder) [Download](https://drive.google.com/file/d/1BrEKVurnvEyw6cUThL_k9BZU73xQwjrU/view?usp=sharing)
+or this (run main shortcut after export files into some folder) [Download](https://drive.google.com/file/d/1BrEKVurnvEyw6cUThL_k9BZU73xQwjrU/view?usp=sharing)
 extract zip => run script => browse file with trades => copy the script from .txt generated file => past into pine editor => add to the chart.
 
 You system can show that this file can contain malware => sorry, I have no possibility to get certification for every script I have, so just skip warning.
