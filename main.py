@@ -3,17 +3,16 @@ import pandas as pd
 from tkinter import filedialog
 from numpy import vectorize
 import warnings
-import os
 import sys
 from tkinter import messagebox
 
 first_part = """
-
 // This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 // © Arivadis
 
 //@version=5
 indicator("Trade Warehouse", overlay = true, max_bars_back = 400)
+dust_input = input.float(5.0, title = 'dust, which we consider to be 0$')
 plot_table = input.bool(true, 'Show table')
 color_last = input.color(defval = color.aqua, title = 'Color AVG last entry')
 color_total = input.color(defval = color.rgb(14, 51, 218), title = 'Color AVG last entry')
@@ -22,7 +21,7 @@ pairs_col = input.color(defval = color.rgb(65, 130, 114), title = 'Pair column')
 
 
 var current_pair = syminfo.ticker
-var dust = 5 / close
+var dust = dust_input / close
 
 type Trade
     string pair
