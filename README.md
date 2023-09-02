@@ -2,8 +2,8 @@
 This is Pinescript script to help You keep your trades in the right order, for your SPOT and BUY&HOLD activity.
 ![Example](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/73b2a04b-1778-430e-94ed-98576298a527)
 
-
-Link to add the script.
+Download python .exe script to convert excel trades into pine script => follow the instruction, please.
+[Link to add the script.](https://drive.google.com/file/d/1mjPmwCPMssS6Qun84QZuZGneg6OWJ7LW/view?usp=sharing)
 
 
 
@@ -23,7 +23,9 @@ All You have to do is:
 ![Excel_before_2](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/7f0f956e-fd76-4c77-a115-2f41553da8fd)
 ![Excel_before_3](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/25c70f26-d900-4ad2-a5a3-b99bfa31ec45)
 
-4. For python script everything is much easier. Just extract zip => run script => browse file with trades => copy the script from .txt generated file => past into pine editor => add to the chart.
+4. For python script everything is much easier. Just download =>
+[Link to add the script.](https://drive.google.com/file/d/1mjPmwCPMssS6Qun84QZuZGneg6OWJ7LW/view?usp=sharing)
+extract zip => run script => browse file with trades => copy the script from .txt generated file => past into pine editor => add to the chart.
 
 You system can show that this file can contain malware => sorry, I have no possibility to get certification for every script I have, so just skip warning.
 You have the right not to believe me, in which case you can install python and run main.py script in console(main.py can be checked by low_skill_coder for malwares)
